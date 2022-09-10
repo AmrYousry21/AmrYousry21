@@ -7,7 +7,7 @@ I’m a .NET Full Stack Software Engineer with a passion for building highly fun
 </a> <a href="mailto: amryousry19@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> 
 
 - 👀 I’m interested in Backend development using .Net Frameworks
-- 💞️ I’m looking to collaborate on any project that will allow me to learn a new skill and see a different development perspective 
+- 🤝 I’m looking to collaborate on any project that will allow me to learn a new skill and see a different development perspective 
 
 ## 🚀 Technologies
 
