@@ -1,6 +1,7 @@
 Hello 👋🏼 , I’m Amr Yousry
 
-I’m a .NET Full Stack Software Engineer with a passion for building highly functional and user friendly applications. My interest in software development started from my passion of Forex Trading. As a trader, I learned that trading platforms are missing simple features that I would have loved to have. The idea of missing out on trades due to the lack of functionality in trading platforms gave me the motivation to pursue a career in Software Engineering. Throughout my journey, I enjoyed taking on challenges of building full solutions to meet a specific goal. I'm always seeking new opportunites to learn if you think we can collaborate please reach me on one of the links below:
+Dynamic .NET Full Stack Developer with 2 years of hands-on experience in crafting scalable web applications and innovative solutions. Proficient in blending front-end and back-end technologies to deliver comprehensive user experiences and robust system architectures. Adept at driving project life cycles from conception to deployment, with a keen focus on optimizing performance and enhancing user engagement. Committed to continuous learning and leveraging the latest technologies to solve complex problems and contribute to team success.
+
 
 <a href="https://www.linkedin.com/in/amr-yousry/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
